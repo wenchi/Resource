@@ -1,3 +1,5 @@
-"Hi" = "嗨！";
-"Every_one" = "各位！";
-"Hows_going_in" = "過得如何";
+{
+  "Hi": "嗨！",
+  "Every_one" : "各位！",
+  "Hows_going_in" : "過得如何"
+}
