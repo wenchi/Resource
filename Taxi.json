@@ -1,5 +1,16 @@
 {
-  "Hi": "嗨！",
+"languages":[{
+"translations":{"Hi": "嗨！",
   "Every_one" : "各位！",
-  "Hows_going_in" : "過得如何"
+  "Hows_going_in" : "過得如何?"
+},
+"code": ""
+},
+{
+"translations":{"Hi": "Hi！",
+  "Every_one" : "Every One！",
+  "Hows_going_in" : "How's going in?"
+},
+"code": ""
+}]
 }
